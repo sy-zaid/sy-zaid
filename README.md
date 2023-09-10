@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Programming and Web-development.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 Reach me at linkedIn: https://www.linkedin.com/in/syed-muhammad-zaid-9a855321a/
+- 📫 Reach me at linkedIn: https://www.linkedin.com/in/syed-muhammad-zaid/
 
 <!---
 sy-zaid/sy-zaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
