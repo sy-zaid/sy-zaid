@@ -57,7 +57,8 @@ I'm Syed Muhammad Zaid, an undergraduate Software Engineer with a deep passion f
 <img align='left' src='https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white'/>
 </a>
 
+<a>
+<img align='right' width='20%' height='15%' src='Brand-Logo.png'/>
+</a>
 
-<!-- <img width='47%' src='https://github-readme-stats.vercel.app/api/pin/?username=sy-zaid&repo=3DWebWorld-Project-1' /> -->
-
-<!-- ![Logo](Insta-post-1-Logo.png) -->
+## 
