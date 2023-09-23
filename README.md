@@ -24,15 +24,38 @@ I'm Syed Muhammad Zaid, an undergraduate Software Engineer with a deep passion f
 
 ## My Code Language Proficiencies
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&hide_title=true'>
+<a>
+<img width='45%' align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sy-zaid&hide_progress=true&hide_title=true'>
+</a>
 
 <br>
 
 ## 🔗 Explore My Digital Presence
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+<a href='mailto:syedmzaid.99@gmail.com'>
+<img align='left' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+</a>
+
+<a href='https://www.linkedin.com/in/zaid-syed-muhammad/'>
+<img align='left' src='https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/>
+</a>
+
+<!-- <a href='https://www.twitter.com/in/'>
+<img align='left' src='https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>
+</a> -->
+
+<a href='https://www.kaggle.com/syzaid'>
+<img align='left' src='https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white'/>
+</a>
+
+<a href='https://www.instagram.com/szaid.py/'>
+<img align='left' src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'/>
+</a>
+
+<a href='https://www.behance.net/szaid'>
+<img align='left' src='https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white'/>
+</a>
 
 
 <!-- <img width='47%' src='https://github-readme-stats.vercel.app/api/pin/?username=sy-zaid&repo=3DWebWorld-Project-1' /> -->
