@@ -25,7 +25,7 @@ I'm Syed Muhammad Zaid, an undergraduate Software Engineer with a deep passion f
 ## My Code Language Proficiencies
 
 <a>
-<img width='45%' align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sy-zaid&hide_progress=true&hide_title=true'>
+<img width='100%' height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sy-zaid&hide_progress=true&hide_title=true'>
 </a>
 
 <br>
