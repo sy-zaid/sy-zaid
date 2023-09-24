@@ -1,6 +1,6 @@
 # Syed Muhammad Zaid - Github Profile | SYED ZAID's INNOVATIONS
 
-<img width='50%' height='100%' src='https://github-readme-stats.vercel.app/api?username=sy-zaid&theme=midnight-purple&show_icons=true&hide_rank=true' />
+<img width='100%' height='300' src='https://github-readme-stats.vercel.app/api?username=sy-zaid&theme=midnight-purple&show_icons=true&hide_rank=true' />
 
 ## Welcome to My GitHub Playground! 🚀👋
 
