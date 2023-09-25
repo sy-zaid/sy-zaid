@@ -47,11 +47,11 @@ Feel free to contact me at these platforms:
 </a> -->
 
 <a href='https://www.kaggle.com/syzaid'>
-<img align='left' src='https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white'/>
+<img src='https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white'/>
 </a>
 
 <a href='https://www.instagram.com/szaid.py/'>
-<img align='left' src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'/>
+<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'/>
 </a>
 
 <a href='https://www.behance.net/szaid'>
