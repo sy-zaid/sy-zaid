@@ -35,11 +35,11 @@ I'm Syed Muhammad Zaid, an undergraduate Software Engineer with a deep passion f
 Feel free to contact me at these platforms:
 
 <a href='mailto:syedmzaid.99@gmail.com'>
-<img align='left' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
 </a>
 
 <a href='https://www.linkedin.com/in/sy-zaid/'>
-<img align='left' src='https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/>
+<img src='https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 
 <!-- <a href='https://www.twitter.com/in/'>
